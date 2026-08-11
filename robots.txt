@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-d30gik.date-me.pro/sitemap.xml
